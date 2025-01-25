@@ -18,3 +18,14 @@ console.log(name);
 
  //first name  not vaild
 
+ let firstName= "ritesh malav";
+console.log(firstName);
+
+firstName="hello world";
+console.log(firstName);
+
+
+const num=12;
+console.log(num);
+//  num=5;
+//  console.log(num);
